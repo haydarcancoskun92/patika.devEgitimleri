@@ -12,27 +12,37 @@ Bu repo içerisinde aşağıdaki dosyalar yer almaktadır.
 
 # Installation
 
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi klonlamak için linki kopyalayın.
+
+```
+https://github.com/haydarcancoskun92/patika.devEgitimleri.git
 
 ```
 
-git clone https://github.com/haydarcancoskun92/kodluyoruzilkrepo
+Projeyi klonlayacğınız klasörü bilgisayarınızda oluşturun.
 
+```
+cd Desktop
+
+cd ProgramınKlonlanacağıDosyaAdı
+
+code .
+
+```
+
+Projeyi klonlayın.
+
+```
+git clone https://github.com/haydarcancoskun92/patika.devEgitimleri.git
 ```
 
 # Usage
 
-Projeyi clonladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
+Projeyi clonladıktan sonra Visual Studio Code programında açtığınız da gerekli dosyalara ulaşmak için aşağıdaki komutu kullanınız.
 
 ```
 
-cd Desktop
-
-cd kodluyoruzilkrepo
-
-code .
+cd patika.devEgitimleri/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/GitDersi/
 
 ```
 
