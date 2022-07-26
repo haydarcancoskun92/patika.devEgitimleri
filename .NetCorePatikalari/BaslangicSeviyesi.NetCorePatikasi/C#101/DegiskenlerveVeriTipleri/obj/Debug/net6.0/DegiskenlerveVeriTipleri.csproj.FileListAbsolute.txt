@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\bin\Debug\net6.0\DegiskenlerveVeriTipleri.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\bin\Debug\net6.0\DegiskenlerveVeriTipleri.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\bin\Debug\net6.0\DegiskenlerveVeriTipleri.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\bin\Debug\net6.0\DegiskenlerveVeriTipleri.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\bin\Debug\net6.0\DegiskenlerveVeriTipleri.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\refint\DegiskenlerveVeriTipleri.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\DegiskenlerveVeriTipleri.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DegiskenlerveVeriTipleri\obj\Debug\net6.0\ref\DegiskenlerveVeriTipleri.dll
