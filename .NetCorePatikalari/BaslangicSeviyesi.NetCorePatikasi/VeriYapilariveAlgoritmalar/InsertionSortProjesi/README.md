@@ -62,7 +62,7 @@ Patika.dev Başlangıç Seviyesi .Net Core Patikasında bulunan Veri Yapıları 
     2 ile 6 karşılaştılır. 6, 2'den büyük olduğu için sağda kalır.
 
 ## Big-O Notation
-Insertion sort iki for loop kullanması nedeniyle O(n²) gösterimine sahiptir.
+Insertion sort iki loop kullanması nedeniyle O(n²) gösterimine sahiptir.
 
 ### Pseudocode
 ```
@@ -84,7 +84,7 @@ end function
 |:-------------:|:-------------:|:-------------:|
 | O(n)          | O(n²)         | O(n²)      |
 |[2,6,16,18,22,27]| O(n²)         |[27,22,18,16,6,2]  
-|
+
 ## Soru
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
