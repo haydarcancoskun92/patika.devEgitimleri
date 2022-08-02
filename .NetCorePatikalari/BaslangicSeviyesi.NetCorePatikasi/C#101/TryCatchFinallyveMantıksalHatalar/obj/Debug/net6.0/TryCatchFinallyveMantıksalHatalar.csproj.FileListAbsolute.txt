@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\bin\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\bin\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\bin\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\bin\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\bin\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\refint\TryCatchFinallyveMantıksalHatalar.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\TryCatchFinallyveMantıksalHatalar.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\TryCatchFinallyveMantıksalHatalar\obj\Debug\net6.0\ref\TryCatchFinallyveMantıksalHatalar.dll
