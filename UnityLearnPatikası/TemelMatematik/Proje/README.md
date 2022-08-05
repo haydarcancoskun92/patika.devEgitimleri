@@ -21,9 +21,18 @@ Günümüzde, oyunlarda kullanılan bazı matematik dalları aşağıda verilmi�
 # Angry Birds
 Yayınladığı dönemde oldukça fazla oynanan Angry Birds, matematiğin temel uygulamasını incelemek için iyi bir örnektir. Öncelikle Angry Birds oyununda modellenen bir hava direnci yok. Yani, kuşun hava da aldığı yol parabol denklemine tam olarak uyuyor. Nedir bu parabol? Matematiksel olarak y=ax²+bx+c şeklinde ifade edilen, aşağıdaki şekile sahip matematiksel bir ifadedir.
 
+<p align="center" width="100%">
+    <img width="33%" src="https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/UnityLearnPatikas%C4%B1/TemelMatematik/Proje/74848B3C-7B5F-40E5-8F87-A54E0BA46BB6.jpeg">
+</p>
+
 Büyük ve küçük oyunlardaki matematiksel hesaplama farklılıklarına dikkat çektik. Şimdi Angry Birds üzerinden bu durumu inceleyelim. Eğer Angry Birds büyük bütçeli bir oyun olsaydı, hava direnci hesaplanabilir, daha gerçekçi bir oyun ortamı yaratılabilirdi.Aslında, bu örnek bile fazla detaya kaçabilir. Büyük bütçeli oyunlarda dahi hava direnci hesaplanamayabilir fakat ana fikri anladığımızı düşünüyorum. 
 
 Kuşların parabolik bir yolu izlediğini söylemiştik. Oyunu oynarken 45 derecelik açıyla kuşu atmayı başarırsanız, oyundaki en uzak noktaya ulaşabilirsiniz. Kuşun hareketi belki de en net gözlemenebilir matermatiksel ifadedir. Fakat oyunda tahta, taş vb elemanlarda olduğu için bazen bu durumu net bir şekilde gözlemleyemeyebilirsiniz. Tüm bunlara ek olarak oyundaki patlama, çarpma vs. gibi bir çok eylemde de çeşitli matematiksel ifadeler kullanılmaktadır.
+
+<p align="center" width="100%">
+    <img width="100%" src="https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/UnityLearnPatikas%C4%B1/TemelMatematik/Proje/68730CDC-B73C-4C4F-AC90-5BF5FAAA50A4.jpeg">
+</p>
+
 
 Temel matematik dersinin bitirme projesi kapsamında hazırladığım bu yazı umarım hoşunuza gitmiştir. Vaktiniz için teşekkür ederim.
 Yazımı hazırlarken okuduğum ve esinlendiğim kaynaklar:
