@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\bin\Debug\net6.0\ForLoopveBreakContinue.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\bin\Debug\net6.0\ForLoopveBreakContinue.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\bin\Debug\net6.0\ForLoopveBreakContinue.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\bin\Debug\net6.0\ForLoopveBreakContinue.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\bin\Debug\net6.0\ForLoopveBreakContinue.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\refint\ForLoopveBreakContinue.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ForLoopveBreakContinue.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ForLoopveBreakContinue\obj\Debug\net6.0\ref\ForLoopveBreakContinue.dll

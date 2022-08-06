@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ForLoopveBreakContinue/1.0.0": {
+        "runtime": {
+          "ForLoopveBreakContinue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoopveBreakContinue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\bin\Debug\net6.0\IfElseIfTernaryIf.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\bin\Debug\net6.0\IfElseIfTernaryIf.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\bin\Debug\net6.0\IfElseIfTernaryIf.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\bin\Debug\net6.0\IfElseIfTernaryIf.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\bin\Debug\net6.0\IfElseIfTernaryIf.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\refint\IfElseIfTernaryIf.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\IfElseIfTernaryIf.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\IfElseIfTernaryIf\obj\Debug\net6.0\ref\IfElseIfTernaryIf.dll
