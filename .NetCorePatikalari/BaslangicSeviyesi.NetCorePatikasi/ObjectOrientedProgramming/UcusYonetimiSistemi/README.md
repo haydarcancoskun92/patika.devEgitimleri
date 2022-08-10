@@ -19,5 +19,5 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 # Çözüm
 
-Draw.io ile çizdiğim diyagramın orjinal haline [buradan]() ulaşabilirsiniz.
-![UcusYönetimSistemi]()
+Draw.io ile çizdiğim diyagramın orijinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/UcusYonetimiSistemi/Assets) ulaşabilirsiniz.
+![UcusYönetimSistemi](https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/UcusYonetimiSistemi/Assets/U%C3%A7u%C5%9F%20Y%C3%B6netim%20Sistemi.drawio.png)
