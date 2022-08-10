@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\bin\Debug\net6.0\UcgenCizme.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\bin\Debug\net6.0\UcgenCizme.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\bin\Debug\net6.0\UcgenCizme.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\bin\Debug\net6.0\UcgenCizme.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\bin\Debug\net6.0\UcgenCizme.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\refint\UcgenCizme.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\UcgenCizme.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\UcgenCizme\obj\Debug\net6.0\ref\UcgenCizme.dll
