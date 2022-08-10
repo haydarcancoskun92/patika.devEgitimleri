@@ -16,5 +16,5 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 # Çözüm
 
-Draw.io ile çizdiğim diyagramın orjinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/UniversiteYonetimProjesi/Assets) ulaşabilirsiniz.
+Draw.io ile çizdiğim diyagramın orijinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/UniversiteYonetimProjesi/Assets) ulaşabilirsiniz.
 ![UniversiteYonetimDiyagramı](https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/UniversiteYonetimProjesi/Assets/%C3%9Cniversite%20Y%C3%B6netim%20Sistemi.drawio.png)
