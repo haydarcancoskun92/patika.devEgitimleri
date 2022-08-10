@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\bin\Debug\net6.0\ArraySinifiMetotlari.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\bin\Debug\net6.0\ArraySinifiMetotlari.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\bin\Debug\net6.0\ArraySinifiMetotlari.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\bin\Debug\net6.0\ArraySinifiMetotlari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\bin\Debug\net6.0\ArraySinifiMetotlari.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\refint\ArraySinifiMetotlari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ArraySinifiMetotlari.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\ArraySinifiMetotlari\obj\Debug\net6.0\ref\ArraySinifiMetotlari.dll
