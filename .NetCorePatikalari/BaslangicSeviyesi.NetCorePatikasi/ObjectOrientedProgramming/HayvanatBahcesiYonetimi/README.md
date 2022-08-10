@@ -22,5 +22,5 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 
 # Çözüm
 
-Draw.io ile çizdiğim diyagramın orjinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/HayvanatBahcesiYonetimi/Assets) ulaşabilirsiniz.
+Draw.io ile çizdiğim diyagramın orijinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/HayvanatBahcesiYonetimi/Assets) ulaşabilirsiniz.
 ![HayvanatBahçesiYönetimiDiyagramı](https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/HayvanatBahcesiYonetimi/Assets/84943DC0-9DF6-49FF-B677-323572DEFD13.png)
