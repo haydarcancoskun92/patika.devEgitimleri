@@ -1,10 +1,8 @@
-# Hayvanat Bahçesi Yönetim Projesi
+# Online Film Sistemi Projesi
 
-Patika.dev Başlangıç Seviyesi .Net Core Patikasında bulunan Object Oriented Programming dersi kapsamında [Hayvanat Bahçesi Yönetim Sistemi](https://app.patika.dev/courses/oop/odev-zoo) için oluşturduğum diyagramdır.
+Patika.dev Başlangıç Seviyesi .Net Core Patikasında bulunan Object Oriented Programming dersi kapsamında [Online Film Sistemi Projesi](https://app.patika.dev/courses/oop/odev-film) için oluşturduğum diyagramdır.
 
 # Proje
-
-Online Film Sistemi Projesi
 
 Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
