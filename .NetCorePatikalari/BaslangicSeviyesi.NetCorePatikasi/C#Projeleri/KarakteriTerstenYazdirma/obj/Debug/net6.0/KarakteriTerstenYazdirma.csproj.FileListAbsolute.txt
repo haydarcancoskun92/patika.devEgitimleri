@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\bin\Debug\net6.0\KarakteriTerstenYazdirma.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\bin\Debug\net6.0\KarakteriTerstenYazdirma.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\bin\Debug\net6.0\KarakteriTerstenYazdirma.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\bin\Debug\net6.0\KarakteriTerstenYazdirma.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\bin\Debug\net6.0\KarakteriTerstenYazdirma.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\refint\KarakteriTerstenYazdirma.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\KarakteriTerstenYazdirma.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakteriTerstenYazdirma\obj\Debug\net6.0\ref\KarakteriTerstenYazdirma.dll
