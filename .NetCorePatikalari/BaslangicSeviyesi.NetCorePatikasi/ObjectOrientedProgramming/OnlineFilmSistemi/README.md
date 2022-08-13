@@ -16,4 +16,5 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 # Çözüm
 
 Draw.io ile çizdiğim diyagramın orijinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/OnlineFilmSistemi/Assets) ulaşabilirsiniz.
+
 ![Online Film Sistemi](https://github.com/haydarcancoskun92/patika.devEgitimleri/blob/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/OnlineFilmSistemi/Assets/Online%20Film%20Sistemi.drawio.png?raw=true)
