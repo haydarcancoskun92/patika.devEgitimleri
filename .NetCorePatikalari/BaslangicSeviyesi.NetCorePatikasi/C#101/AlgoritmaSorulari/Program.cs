@@ -51,41 +51,46 @@ class MenuOperations
     public void QuestionCalculations(int selection)
     {
         InputOperations inputOperations = new InputOperations();
+        int n;
+        int m;
+        int[] arrayN;
+        string s;
+        string[] arrayString;
         switch (selection)
         {
             case 1:
                 Console.WriteLine("***Çift Sayı Yazdırma***");
                 Console.WriteLine("Pozitif bir sayi giriniz...");
-                int n = inputOperations.IntegerTakeAndValidation();
+                n = inputOperations.IntegerTakeAndValidation();
                 Console.WriteLine(n + " adet pozitif  sayi giriniz...");
-                int[] arrayN = inputOperations.IntegerArrayTake(n);
+                arrayN = inputOperations.IntegerArrayTake(n);
                 Console.WriteLine(n + " adet pozitif  sayi içerisinden çift olanlar:");
                 inputOperations.modResultsWriting(arrayN, 2);
                 break;
             case 2:
                 Console.WriteLine("***Girilen Sayı İçin Bölüm Hesaplama***");
                 Console.WriteLine("Pozitif iki sayi giriniz...");
-                int n2 = inputOperations.IntegerTakeAndValidation();
-                int m2 = inputOperations.IntegerTakeAndValidation();
-                Console.WriteLine(n2 + " adet pozitif  sayi giriniz...");
-                int[] arrayN2 = inputOperations.IntegerArrayTake(n2);
-                Console.WriteLine(n2 + " adet pozitif  sayi içerisinden " + m2 + "'a/e/ye/ya tam bölünenler:");
-                inputOperations.modResultsWriting(arrayN2, m2);
+                n = inputOperations.IntegerTakeAndValidation();
+                m = inputOperations.IntegerTakeAndValidation();
+                Console.WriteLine(n + " adet pozitif  sayi giriniz...");
+                arrayN = inputOperations.IntegerArrayTake(n);
+                Console.WriteLine(n + " adet pozitif  sayi içerisinden " + m + "'a/e/ye/ya tam bölünenler:");
+                inputOperations.modResultsWriting(arrayN, m);
                 break;
             case 3:
                 Console.WriteLine("***Array Tersten Sıralama***");
                 Console.WriteLine("Pozitif bir sayi giriniz...");
-                int n3 = inputOperations.IntegerTakeAndValidation();
-                Console.WriteLine(n3 + " adet kelime giriniz...");
-                string[] arrayN3 = inputOperations.StringArrayTake(n3);
+                n = inputOperations.IntegerTakeAndValidation();
+                Console.WriteLine(n + " adet kelime giriniz...");
+                arrayString = inputOperations.StringArrayTake(n);
                 Console.WriteLine("Sondan başa sıralı array:");
-                inputOperations.ReverseArray(arrayN3);
+                inputOperations.ReverseArray(arrayString);
                 break;
             case 4:
                 Console.WriteLine("***Kelime ve Harf Sayısı Hesaplama***");
                 Console.WriteLine("Bir cümle yazınız");
-                string s4 = inputOperations.StringTakeAndValidation();
-                inputOperations.WordAndSyllableCounter(s4);
+                s = inputOperations.StringTakeAndValidation();
+                inputOperations.WordAndSyllableCounter(s);
                 break;
         }
     }
