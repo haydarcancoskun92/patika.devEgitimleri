@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\bin\Debug\net6.0\DatetimeVeMathSiniflari.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\bin\Debug\net6.0\DatetimeVeMathSiniflari.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\bin\Debug\net6.0\DatetimeVeMathSiniflari.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\bin\Debug\net6.0\DatetimeVeMathSiniflari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\bin\Debug\net6.0\DatetimeVeMathSiniflari.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\refint\DatetimeVeMathSiniflari.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\DatetimeVeMathSiniflari.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\DatetimeVeMathSiniflari\obj\Debug\net6.0\ref\DatetimeVeMathSiniflari.dll

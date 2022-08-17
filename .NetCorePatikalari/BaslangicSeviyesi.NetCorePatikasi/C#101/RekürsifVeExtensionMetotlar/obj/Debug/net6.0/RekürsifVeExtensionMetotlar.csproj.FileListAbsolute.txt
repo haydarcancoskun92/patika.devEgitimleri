@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\bin\Debug\net6.0\RekürsifVeExtensionMetotlar.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\bin\Debug\net6.0\RekürsifVeExtensionMetotlar.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\bin\Debug\net6.0\RekürsifVeExtensionMetotlar.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\bin\Debug\net6.0\RekürsifVeExtensionMetotlar.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\bin\Debug\net6.0\RekürsifVeExtensionMetotlar.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\refint\RekürsifVeExtensionMetotlar.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\RekürsifVeExtensionMetotlar.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\RekürsifVeExtensionMetotlar\obj\Debug\net6.0\ref\RekürsifVeExtensionMetotlar.dll
