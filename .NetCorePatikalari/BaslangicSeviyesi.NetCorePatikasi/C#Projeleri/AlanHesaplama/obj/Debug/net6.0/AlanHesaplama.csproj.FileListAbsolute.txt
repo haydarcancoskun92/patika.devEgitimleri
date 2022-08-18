@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\refint\AlanHesaplama.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\AlanHesaplama\obj\Debug\net6.0\ref\AlanHesaplama.dll
