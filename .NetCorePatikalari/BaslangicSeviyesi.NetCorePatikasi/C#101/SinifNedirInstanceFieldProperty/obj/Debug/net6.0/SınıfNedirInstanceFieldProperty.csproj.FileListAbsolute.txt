@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\bin\Debug\net6.0\SınıfNedirInstanceFieldProperty.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\bin\Debug\net6.0\SınıfNedirInstanceFieldProperty.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\bin\Debug\net6.0\SınıfNedirInstanceFieldProperty.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\bin\Debug\net6.0\SınıfNedirInstanceFieldProperty.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\bin\Debug\net6.0\SınıfNedirInstanceFieldProperty.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\refint\SınıfNedirInstanceFieldProperty.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\SınıfNedirInstanceFieldProperty.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\SınıfNedirInstanceFieldProperty\obj\Debug\net6.0\ref\SınıfNedirInstanceFieldProperty.dll

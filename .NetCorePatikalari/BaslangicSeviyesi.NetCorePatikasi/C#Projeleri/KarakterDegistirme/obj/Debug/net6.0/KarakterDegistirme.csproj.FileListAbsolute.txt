@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\refint\KarakterDegistirme.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\KarakterDegistirme\obj\Debug\net6.0\ref\KarakterDegistirme.dll
