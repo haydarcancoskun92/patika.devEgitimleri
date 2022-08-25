@@ -20,6 +20,6 @@ Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gel
 
 # Çözüm
 
-Draw.io ile çizdiğim diyagramın orijinal haline [buradan]() ulaşabilirsiniz.
+Draw.io ile çizdiğim diyagramın orijinal haline [buradan](https://github.com/haydarcancoskun92/patika.devEgitimleri/tree/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/AsansorSimulasyonu/Assets) ulaşabilirsiniz.
 
-![Asansör Simülasyonu]()
+![Asansör Simülasyonu](https://raw.githubusercontent.com/haydarcancoskun92/patika.devEgitimleri/main/.NetCorePatikalari/BaslangicSeviyesi.NetCorePatikasi/ObjectOrientedProgramming/AsansorSimulasyonu/Assets/Asans%C3%B6r%20Sim%C3%BClasyonu.drawio.png)
