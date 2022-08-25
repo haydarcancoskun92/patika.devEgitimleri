@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\bin\Debug\net6.0\EncapsulationvePropertyKavrami.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\bin\Debug\net6.0\EncapsulationvePropertyKavrami.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\bin\Debug\net6.0\EncapsulationvePropertyKavrami.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\bin\Debug\net6.0\EncapsulationvePropertyKavrami.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\bin\Debug\net6.0\EncapsulationvePropertyKavrami.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\refint\EncapsulationvePropertyKavrami.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\EncapsulationvePropertyKavrami.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\EncapsulationvePropertyKavrami\obj\Debug\net6.0\ref\EncapsulationvePropertyKavrami.dll
