@@ -4,7 +4,6 @@ public class Struct
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello Mono World");
         Dikdortgen dikdortgen = new Dikdortgen();
         dikdortgen.kisaKenar = 3;
         dikdortgen.uzunKenar = 4;
