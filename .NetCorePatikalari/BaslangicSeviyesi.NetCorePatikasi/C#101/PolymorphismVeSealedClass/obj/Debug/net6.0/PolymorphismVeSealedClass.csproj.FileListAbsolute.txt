@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\bin\Debug\net6.0\PolymorphismVeSealedClass.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\bin\Debug\net6.0\PolymorphismVeSealedClass.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\bin\Debug\net6.0\PolymorphismVeSealedClass.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\bin\Debug\net6.0\PolymorphismVeSealedClass.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\bin\Debug\net6.0\PolymorphismVeSealedClass.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\refint\PolymorphismVeSealedClass.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\PolymorphismVeSealedClass.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\PolymorphismVeSealedClass\obj\Debug\net6.0\ref\PolymorphismVeSealedClass.dll

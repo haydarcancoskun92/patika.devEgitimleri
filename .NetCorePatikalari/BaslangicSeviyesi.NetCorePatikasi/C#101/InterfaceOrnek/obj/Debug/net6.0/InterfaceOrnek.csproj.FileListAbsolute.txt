@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\bin\Debug\net6.0\InterfaceOrnek.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\bin\Debug\net6.0\InterfaceOrnek.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\bin\Debug\net6.0\InterfaceOrnek.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\bin\Debug\net6.0\InterfaceOrnek.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\bin\Debug\net6.0\InterfaceOrnek.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\refint\InterfaceOrnek.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\InterfaceOrnek.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\InterfaceOrnek\obj\Debug\net6.0\ref\InterfaceOrnek.dll

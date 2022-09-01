@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.exe
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.deps.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.runtimeconfig.json
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfo.cs
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\refint\SessizHarf.dll
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.pdb
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.genruntimeconfig.cache
+C:\Users\hayda\Desktop\patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#Projeleri\SessizHarf\obj\Debug\net6.0\ref\SessizHarf.dll
