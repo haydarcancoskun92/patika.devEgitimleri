@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\bin\Debug\net6.0\Proje2-ToDoUygulamasi.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\bin\Debug\net6.0\Proje2-ToDoUygulamasi.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\bin\Debug\net6.0\Proje2-ToDoUygulamasi.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\bin\Debug\net6.0\Proje2-ToDoUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\bin\Debug\net6.0\Proje2-ToDoUygulamasi.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\refint\Proje2-ToDoUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\Proje2-ToDoUygulamasi.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje2-ToDoUygulamasi\obj\Debug\net6.0\ref\Proje2-ToDoUygulamasi.dll

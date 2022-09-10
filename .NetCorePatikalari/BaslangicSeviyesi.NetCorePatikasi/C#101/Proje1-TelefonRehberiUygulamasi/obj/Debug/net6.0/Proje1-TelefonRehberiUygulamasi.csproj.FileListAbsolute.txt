@@ -1,0 +1,15 @@
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\bin\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.exe
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\bin\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.deps.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\bin\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.runtimeconfig.json
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\bin\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\bin\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.AssemblyInfoInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.AssemblyInfo.cs
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\refint\Proje1-TelefonRehberiUygulamasi.dll
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.pdb
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\Proje1-TelefonRehberiUygulamasi.genruntimeconfig.cache
+C:\Users\hayda\Desktop\Patika\patika.devEgitimleri\.NetCorePatikalari\BaslangicSeviyesi.NetCorePatikasi\C#101\Proje1-TelefonRehberiUygulamasi\obj\Debug\net6.0\ref\Proje1-TelefonRehberiUygulamasi.dll
